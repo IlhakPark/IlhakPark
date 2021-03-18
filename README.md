@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ilhak Park.
-- 👀 I’m looking for an actuarial/data analytic job.
+- 👀 I’m looking for an actuarial/data analyst job.
 - 🌱 I’m currently learning Data Science at Ryerson University.
 - 📫 Reach out at parkilhak@gmail.com or linkedin.com/in/ilhakpark
 
